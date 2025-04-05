@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project is the second assignment for the IFT 3355 course at Université de Montréal. The goal is to implement a basic ray tracer capable of rendering simple 3D scenes composed of geometric primitives like spheres and planes. The ray tracer simulates the interaction of light with objects, including effects such as reflections and shadows, to produce realistic images.
+The goal is to implement a basic ray tracer capable of rendering simple 3D scenes composed of geometric primitives like spheres and planes. The ray tracer simulates the interaction of light with objects, including effects such as reflections and shadows, to produce realistic images.
 
 ## Features
 
